@@ -1,0 +1,2 @@
+# packages needed for the workflow should be stored here. Packages needed for specific rules within
+# the snakefile can be added individually in this /envs folder.
